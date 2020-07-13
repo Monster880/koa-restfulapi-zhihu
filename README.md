@@ -1,7 +1,8 @@
 ### **Node.js仿知乎服务端**
 
-![首页](https://github.com/Monster880/jianshu-react/blob/master/detail.png)
-![详情](https://github.com/Monster880/jianshu-react/blob/master/index.png)
+[启动] https://github.com/Monster880/koa-restfulapi-zhihu1/blob/master/%E5%90%AF%E5%8A%A8.png
+
+[postman] https://github.com/Monster880/koa-restfulapi-zhihu1/blob/master/postman.jpg
 
 #### 1-用户功能开发
 
