@@ -49,7 +49,7 @@
 
 ### 项目执行 
 
-####  1、将项目克隆到本地，cd到react-jianshu
+####  1、将项目克隆到本地，cd到koa-restfulapi-zhihu1
 
 ```javascript
 https://github.com/Monster880/koa-restfulapi-zhihu1.git
